@@ -58,9 +58,9 @@ export function Footer() {
                 </Link>
               </li>
               <li>
-                <Link href="/gallery" className="text-slate-300 hover:text-white transition-colors">
+{/*                 <Link href="/gallery" className="text-slate-300 hover:text-white transition-colors">
                   Gallery
-                </Link>
+                </Link> */}
               </li>
             </ul>
           </div>
