@@ -1,0 +1,267 @@
+{
+  "company": {
+    "name": "Nepal Ultratech Cement Ltd.",
+    "tagline": "Build Legacies with Us",
+    "description": "Leading manufacturer of premium cement products in Nepal, committed to quality, innovation, and sustainable construction solutions.",
+    "established": "2010",
+    "values": [
+      "We uphold transparency, honesty, and fairness.",
+      "We embrace new technologies for better efficiency.",
+      "Each product reflects precision and care.",
+      "We are committed to greener processes.",
+      "Workplace safety is a top priority.",
+      "Empowering Nepal’s development through reliable infrastructure."
+    ],
+
+    "glance": [
+      {
+        "title": "DCS & PLC Technology",
+        "desc": "One-point control of the entire factory.",
+        "icon": "/images/icon1.png"
+      },
+      {
+        "title": "Biggest Cement Grinding Unit",
+        "desc": "Fully automated system.",
+        "icon": "/images/icon2.png"
+      },
+      {
+        "title": "Bulk Loading Procedure",
+        "desc": "Reduces project cost with unsacked cement.",
+        "icon": "/images/icon3.png"
+      },
+      {
+        "title": "Automatic Truck Loader",
+        "desc": "Hanging type truck loader.",
+        "icon": "/images/icon4.png"
+      },
+      {
+        "title": "German Technology",
+        "desc": "Truck lifter & stacker reclaimer used for the first time.",
+        "icon": "/images/icon5.png"
+      },
+      {
+        "title": "Automated Roto Packer",
+        "desc": "Protects from moisture or leakage.",
+        "icon": "/images/icon6.png"
+      }
+    ],
+
+    "team": [
+      {
+        "name": "Manish Kumar Maru",
+        "role": "Chairman",
+        "image": "/images/chairman-manish-kumar-maru.jpg"
+      },
+      {
+        "name": "Rajnish Karnani",
+        "role": "Board of Director",
+        "image": "/images/rajnish-karnani.png"
+      },
+      {
+        "name": "Anjali Sharma",
+        "role": "Head of Operations",
+        "image": "/images/emp.png"
+      },
+      {
+        "name": "Sunil Thapa",
+        "role": "Technical Lead",
+        "image": "/images/emp.png"
+      },
+      {
+        "name": "Sunil Thapa",
+        "role": "Technical Lead",
+        "image": "/images/emp.png"
+      },
+      {
+        "name": "Sita Gurung",
+        "role": "Quality Assurance Manager",
+        "image": "/images/emp.png"
+      },
+      {
+        "name": "Rajesh Kumar",
+        "role": "Sales Manager",
+        "image": "/images/emp.png"
+      },
+      {
+        "name": "Anita Rai",
+        "role": "Marketing Head",
+        "image": "/images/emp.png"
+      },
+      {
+        "name": "Prakash Joshi",
+        "role": "Logistics Coordinator",
+        "image": "/images/emp.png"
+      }
+    ],
+
+    "brands": [
+      {
+      "id": "bandhan",
+      "name": "Bandhan Cement",
+      "tagline": "साथ प्रविधि र गुणस्तरको",
+      "taglineEn": "With Technology and Quality",
+      "description": "Premium cement brand focused on strength and reliability for all construction needs.",
+      "logo": "/images/bandhan-logo.png",
+      "colors": {
+        "primary": "#182751",
+        "secondary": "#bb9844"
+      },
+      "products": {
+        "OPC 43 Grade": {
+          "price_npr": 950,
+          "description": "Ordinary Portland Cement suitable for general construction",
+          "strength": "43 MPa",
+          "applications": ["Residential construction", "Commercial buildings", "Infrastructure"]
+        },
+        "OPC 53 Grade": {
+          "price_npr": 970,
+          "description": "High-strength cement for heavy-duty construction",
+          "strength": "53 MPa",
+          "applications": ["High-rise buildings", "Bridges", "Industrial structures"]
+        },
+        "PPC": {
+          "price_npr": 930,
+          "description": "Portland Pozzolana Cement with enhanced durability",
+          "strength": "33 MPa",
+          "applications": ["Marine structures", "Mass concrete works", "Precast elements"]
+        },
+        "PSC": {
+          "price_npr": 940,
+          "description": "High-performance PPC for superior construction",
+          "strength": "33 MPa",
+          "applications": ["Premium construction", "Architectural works", "Specialized projects"]
+        }
+      }
+    },
+  {
+    "id": "lt",
+    "name": "L&T Cement",
+    "tagline": "दिगो निर्माणको आरम्भ",
+    "taglineEn": "Beginning of Sustainable Construction",
+    "description": "Innovative cement solutions for modern construction with focus on sustainability and performance.",
+    "logo": "/images/lt-logo.png",
+    "colors": {
+      "primary": "#dc2626",
+      "secondary": "#053c50"
+    },
+    "products": {
+      "OPC 43 Grade": {
+        "price_npr": 960,
+        "description": "Premium Ordinary Portland Cement for reliable construction",
+        "strength": "43 MPa",
+        "applications": ["Residential projects", "Commercial construction", "General building works"]
+      },
+      "OPC 53 Grade": {
+        "price_npr": 980,
+        "description": "Superior strength cement for demanding applications",
+        "strength": "53 MPa",
+        "applications": ["High-rise construction", "Infrastructure projects", "Industrial applications"]
+      },
+      "PPC": {
+        "price_npr": 940,
+        "description": "Eco-friendly Portland Pozzolana Cement",
+        "strength": "33 MPa",
+        "applications": ["Sustainable construction", "Mass concrete", "Marine applications"]
+      }
+    }
+  },
+  {
+    "id": "ltgold",
+    "name": "L&T Gold Cement",
+    "tagline": "आधारबाट शिखरसम्म",
+    "taglineEn": "From Foundation to Excellence",
+    "description": "Premium range of L&T Cement offering unmatched strength and finish for high-end construction projects.",
+    "logo": "/images/lt-gold-logo.png",
+    "colors": {
+      "primary": "#a8863a",
+      "secondary": "#5c3200"
+    },
+    "products": {
+      "OPC 43 Grade": {
+        "price_npr": 990,
+        "description": "High-quality Ordinary Portland Cement for premium construction",
+        "strength": "43 MPa",
+        "applications": ["Premium residential projects", "Luxury commercial spaces", "Specialized constructions"]
+      },
+      "OPC 53 Grade": {
+        "price_npr": 1010,
+        "description": "Ultra-strong cement for elite and demanding projects",
+        "strength": "53 MPa",
+        "applications": ["Luxury high-rises", "Landmark infrastructure", "Prestige projects"]
+      },
+      "PPC": {
+        "price_npr": 970,
+        "description": "Eco-conscious premium Portland Pozzolana Cement for lasting durability",
+        "strength": "33 MPa",
+        "applications": ["Sustainable luxury projects", "Marine structures", "Architectural masterpieces"]
+      }
+    }
+  }
+],
+
+    "usps": [
+      {
+        "title": "German Technology",
+        "description": "Advanced German manufacturing technology ensuring superior quality and consistency",
+        "icon": "⚙️"
+      },
+      {
+        "title": "Maximum Strength",
+        "description": "High compressive strength for durable and long-lasting construction",
+        "icon": "💪"
+      },
+      {
+        "title": "Environment Friendly",
+        "description": "Sustainable production processes with minimal environmental impact",
+        "icon": "🌱"
+      },
+      {
+        "title": "Right Price",
+        "description": "Competitive pricing without compromising on quality",
+        "icon": "💰"
+      },
+      {
+        "title": "Best Quality",
+        "description": "Consistent quality meeting international standards",
+        "icon": "⭐"
+      }
+    ],
+    "certifications": [
+      {
+        "name": "Nepal Standards Authority",
+        "description": "Approved by Nepal Standards Authority for quality assurance",
+        "logo": "/images/nepal-standards-logo.png"
+      },
+      {
+        "name": "ISO 9001:2015",
+        "description": "Quality Management System certification",
+        "logo": "/images/iso-logo.png"
+      }
+    ],
+    "technology": {
+      "title": "Advanced German Technology",
+      "description": "Our state-of-the-art manufacturing facility utilizes advanced German technology to ensure consistent quality and superior performance in all our cement products.",
+      "features": [
+        "Automated quality control systems",
+        "Advanced grinding technology",
+        "Environmental monitoring systems",
+        "Energy-efficient production processes"
+      ]
+    },
+    "contact": {
+      "address": "Biratnagar, Morang, Nepal",
+      "phone": "+977 9802705589",
+      "email": "info@nepalultratechcement.com",
+      "website": "www.nepalultratechcement.com",
+      "coordinates": {
+        "lat": 26.4525,
+        "lng": 87.2718
+      }
+    },
+    "social": {
+      "facebook": "https://www.facebook.com/bandhan.cement.5",
+      "instagram": "https://instagram.com/nepal.ultratech.cement",
+      "linkedin": "https://www.linkedin.com/company/107950993"
+    }
+  }
+}
